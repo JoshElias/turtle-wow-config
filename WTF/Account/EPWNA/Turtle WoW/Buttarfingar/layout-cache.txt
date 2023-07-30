@@ -1,9 +1,9 @@
 Frame: TWMiniMapBattlefieldFrame
-FrameLevel: 10
+FrameLevel: 7
 X: 1424
 Y: -38
 Frame: TWMinimapShopFrame
-FrameLevel: 7
+FrameLevel: 5
 X: 1424
 Y: -69
 Frame: PlayerFrame
@@ -32,6 +32,10 @@ X: 1218
 Y: -740
 W: 376
 H: 132
+Frame: SpellBookFrame
+FrameLevel: 24
+X: 105
+Y: -113
 Frame: NewTransmogAlertFrame
 FrameLevel: 1
 X: 444
@@ -61,7 +65,7 @@ FrameLevel: 1
 X: 0
 Y: -104
 Frame: LFT_Minimap
-FrameLevel: 8
+FrameLevel: 6
 X: 1422
 Y: -98
 Frame: pfConfigGUI
@@ -79,4 +83,4 @@ Y: -811
 Frame: pfQuestMapTracker
 FrameLevel: 1
 X: 4
-Y: -386
+Y: -336

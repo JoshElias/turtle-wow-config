@@ -14,8 +14,8 @@ SM_VARS = {
 	["checkCooldown"] = 1,
 	["hideAction"] = 0,
 	["editBoxFontSize"] = 12,
-	["replaceIcon"] = 1,
 	["wordWrap"] = 0,
+	["replaceIcon"] = 1,
 	["tabShown"] = "regular",
 	["macroTip2"] = 0,
 }
