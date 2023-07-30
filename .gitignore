@@ -12,6 +12,7 @@ Data/*
 *.wtf
 
 Documentation
+Logs
 
 Interface/AddOns/Blizzard_AuctionUI
 Interface/AddOns/Blizzard_BattlefieldMinimap
