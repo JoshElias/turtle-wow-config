@@ -1,4 +1,10 @@
-Data
+Data/*
+!Data/patch-A.MPQ
+!Data/patch-B.MPQ
+!Data/patch-C.MPQ
+!Data/patch-F.mpq
+!Data/patch-Z.mpq
+!Data/patch-I.mpq
 
 *.dll
 *.exe
