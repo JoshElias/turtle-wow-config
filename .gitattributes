@@ -1,0 +1,6 @@
+Data/patch-A.MPQ filter=lfs diff=lfs merge=lfs -text
+Data/patch-B.MPQ filter=lfs diff=lfs merge=lfs -text
+Data/patch-C.MPQ filter=lfs diff=lfs merge=lfs -text
+Data/patch-F.mpq filter=lfs diff=lfs merge=lfs -text
+Data/patch-I.mpq filter=lfs diff=lfs merge=lfs -text
+Data/patch-Z.mpq filter=lfs diff=lfs merge=lfs -text
