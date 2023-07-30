@@ -1,0 +1,3 @@
+MACRO 16777217 "Torment" Ability_Warrior_WarCry
+/cast [pet:Voidwalker] Torment;
+END

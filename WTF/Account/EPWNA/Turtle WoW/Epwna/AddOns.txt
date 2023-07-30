@@ -1,0 +1,3 @@
+AI_VoiceOver: enabled
+AI_VoiceOverData_Vanilla: disabled
+Bagnon_Forever: disabled

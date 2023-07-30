@@ -1,0 +1,6 @@
+MACRO 1 "Cycle Target" Ability_BackStab
+/targetenemy
+END
+MACRO 2 "Pet Attack" ability_deathknight_summongargoyle
+/petattack
+END

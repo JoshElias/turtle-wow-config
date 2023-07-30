@@ -1,0 +1,2 @@
+AI_VoiceOverData_Vanilla: disabled
+AI_VoiceOver: disabled

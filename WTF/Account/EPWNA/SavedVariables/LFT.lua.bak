@@ -1,0 +1,8 @@
+
+LFT_FORMED_GROUPS = {
+	["dm"] = 1,
+	["rfc"] = 1,
+	["maraprincess"] = 2,
+	["smcath"] = 1,
+	["stratud"] = 1,
+}

@@ -1,0 +1,10 @@
+
+VoiceOverDB = {
+	["profileKeys"] = {
+		["Buttarfingar - Turtle WoW"] = "Buttarfingar - Turtle WoW",
+	},
+	["profiles"] = {
+		["Buttarfingar - Turtle WoW"] = {
+		},
+	},
+}
