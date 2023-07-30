@@ -5,48 +5,48 @@ pfQuest_config = {
 		[2] = 3.56,
 		[3] = -8.220000000000001,
 	},
-	["welcome"] = "1",
-	["currentquestgivers"] = "1",
+	["latest"] = 60809,
+	["arrow"] = "1",
 	["showclustermini"] = "0",
 	["worldmapmenu"] = "1",
-	["routes"] = "1",
+	["nodefade"] = "0.3",
 	["minimapnodes"] = "1",
 	["showcluster"] = "1",
 	["mouseover"] = "1",
-	["trackerexpand"] = "0",
-	["favonlogin"] = "0",
-	["tooltiphelp"] = "1",
-	["spawncolors"] = "0",
-	["cutoutminimap"] = "1",
-	["latest"] = 60809,
-	["questlinks"] = "1",
-	["showids"] = "0",
 	["showspawnmini"] = "1",
+	["favonlogin"] = "0",
+	["minimapbutton"] = "1",
+	["routeender"] = "1",
+	["cutoutminimap"] = "1",
+	["welcome"] = "1",
+	["trackerexpand"] = "0",
+	["showids"] = "0",
+	["questlinks"] = "1",
 	["minimaptransp"] = "1.0",
 	["showspawn"] = "1",
 	["showhighlevel"] = "0",
 	["clustermono"] = "0",
-	["routestarter"] = "0",
-	["trackerlevel"] = "1",
-	["showlowlevel"] = "0",
-	["worldmaptransp"] = "1.0",
 	["questlogbuttons"] = "1",
-	["mindropchance"] = "1",
+	["trackerlevel"] = "1",
+	["routestarter"] = "0",
+	["worldmaptransp"] = "1.0",
+	["showlowlevel"] = "0",
+	["currentquestgivers"] = "1",
 	["trackerfontsize"] = "12",
 	["showfestival"] = "0",
 	["showtooltips"] = "1",
 	["cutoutworldmap"] = "0",
 	["trackeralpha"] = "0",
 	["trackingmethod"] = 1,
-	["arrow"] = "1",
-	["routeender"] = "1",
+	["mindropchance"] = "1",
+	["spawncolors"] = "0",
 	["routecluster"] = "1",
 	["allquestgivers"] = "1",
 	["questloglevel"] = "0",
 	["showtracker"] = "1",
-	["nodefade"] = "0.3",
+	["routes"] = "1",
 	["routeminimap"] = "0",
-	["minimapbutton"] = "1",
+	["tooltiphelp"] = "1",
 }
 pfBrowser_fav = {
 	["items"] = {
@@ -175,10 +175,6 @@ pfQuest_history = {
 		[1] = 1690747879,
 		[2] = 36,
 	},
-	[1102] = {
-		[1] = 1690747599,
-		[2] = 36,
-	},
 	[5761] = {
 		[1] = 1689529202,
 		[2] = 14,
@@ -191,17 +187,29 @@ pfQuest_history = {
 		[1] = 1689522416,
 		[2] = 14,
 	},
-	[40086] = {
-		[1] = 1689520189,
-		[2] = 13,
+	[60148] = {
+		[1] = 1688938838,
+		[2] = 6,
+	},
+	[1102] = {
+		[1] = 1690747599,
+		[2] = 36,
 	},
 	[492] = {
 		[1] = 1689430176,
 		[2] = 13,
 	},
-	[5481] = {
-		[1] = 1689372226,
-		[2] = 11,
+	[361] = {
+		[1] = 1689428281,
+		[2] = 12,
+	},
+	[60107] = {
+		[1] = 1689521509,
+		[2] = 14,
+	},
+	[1433] = {
+		[1] = 1690753600,
+		[2] = 37,
 	},
 	[398] = {
 		[1] = 1689298175,
@@ -211,17 +219,17 @@ pfQuest_history = {
 		[1] = 1688867726,
 		[2] = 5,
 	},
-	[361] = {
-		[1] = 1689428281,
-		[2] = 12,
+	[1473] = {
+		[1] = 1689479043,
+		[2] = 13,
 	},
 	[5482] = {
 		[1] = 1689373083,
 		[2] = 11,
 	},
-	[359] = {
-		[1] = 1689301045,
-		[2] = 9,
+	[5481] = {
+		[1] = 1689372226,
+		[2] = 11,
 	},
 	[80300] = {
 		[1] = 1689480371,
@@ -235,17 +243,13 @@ pfQuest_history = {
 		[1] = 1689359764,
 		[2] = 9,
 	},
-	[1473] = {
-		[1] = 1689479043,
-		[2] = 13,
+	[359] = {
+		[1] = 1689301045,
+		[2] = 9,
 	},
 	[407] = {
 		[1] = 1688942100,
 		[2] = 7,
-	},
-	[60107] = {
-		[1] = 1689521509,
-		[2] = 14,
 	},
 	[408] = {
 		[1] = 1689428020,
@@ -255,25 +259,29 @@ pfQuest_history = {
 		[1] = 1688941646,
 		[2] = 7,
 	},
+	[40086] = {
+		[1] = 1689520189,
+		[2] = 13,
+	},
 	[60113] = {
 		[1] = 1689372169,
 		[2] = 11,
-	},
-	[60148] = {
-		[1] = 1688938838,
-		[2] = 6,
 	},
 	[80302] = {
 		[1] = 1689523833,
 		[2] = 14,
 	},
-	[3901] = {
-		[1] = 1688853344,
-		[2] = 4,
+	[5361] = {
+		[1] = 1690753564,
+		[2] = 37,
 	},
 	[375] = {
 		[1] = 1689479213,
 		[2] = 13,
+	},
+	[3901] = {
+		[1] = 1688853344,
+		[2] = 4,
 	},
 }
 pfQuest_colors = {

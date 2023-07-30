@@ -34,8 +34,8 @@ W: 376
 H: 132
 Frame: SpellBookFrame
 FrameLevel: 24
-X: 105
-Y: -113
+X: 0
+Y: -104
 Frame: NewTransmogAlertFrame
 FrameLevel: 1
 X: 444
@@ -56,6 +56,10 @@ Frame: AtlasLootDefaultFrame
 FrameLevel: 13
 X: 469
 Y: -37
+Frame: aux_frame
+FrameLevel: 24
+X: 99
+Y: -226
 Frame: LFTDungeonStatus
 FrameLevel: 1
 X: 1264
@@ -83,4 +87,4 @@ Y: -811
 Frame: pfQuestMapTracker
 FrameLevel: 1
 X: 4
-Y: -336
+Y: -450

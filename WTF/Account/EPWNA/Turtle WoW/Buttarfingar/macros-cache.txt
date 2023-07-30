@@ -10,6 +10,9 @@ END
 MACRO 16777221 "Pet CC" Ability_Creature_Cursed_04
 /script CastPetAction(1);
 END
+MACRO 16777224 "Pet Support" Spell_Holy_Renew
+/script CastPetAction(2);
+END
 MACRO 16777223 "Pet Toggle" Ability_Hunter_SniperShot
 /script if UnitExists("target") then if a==0 then PetAttack(target) a=1 else if UnitExists("pettarget") and UnitIsUnit("target", "pettarget") then PetFollow("Buttarfingar") a=0 else PetAttack(target) end;end; else PetFollow("Buttarfingar") a=0 end
 END

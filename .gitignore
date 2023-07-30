@@ -28,3 +28,6 @@ Interface/AddOns/Blizzard_TalentUI
 Interface/AddOns/Blizzard_TradeSkillUI
 Interface/AddOns/Blizzard_TrainerUI
 Interface/AddOns/LFT
+
+!GitAddonsManager/**/*.dll
+!GitAddonsManager/**/*.exe
