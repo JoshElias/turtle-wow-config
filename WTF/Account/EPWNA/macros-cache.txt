@@ -4,3 +4,7 @@ END
 MACRO 2 "Pet Attack" ability_deathknight_summongargoyle
 /petattack
 END
+MACRO 3 "Shoot" Spell_Nature_Brilliance
+/run GGUseAction=GGUseAction or UseAction;UseAction=function(id,a,b)if not IsCurrentAction(id)and not IsAutoRepeatAction(id)then GGUseAction(id,a,b)end end
+/cast Shoot
+END
